@@ -69,6 +69,10 @@ ebook-convert file.pdf file.epub --enable-heuristics
 
 vigil: https://itsfoss.com/sigile-epub-editor/
 
+## modifica, ripulitura, riordino scansioni e pdf
+
+gscan2pdf
+
 ## programmi per scrittura 
 
 https://itsfoss.com/open-source-tools-writers/
