@@ -73,6 +73,14 @@ vigil: https://itsfoss.com/sigile-epub-editor/
 
 gscan2pdf
 
+## da markdown a docx
+
+per import in google docs o editing successivi
+
+```
+pandoc MyFile.md -f markdown -t docx -s -o MyFile.docx
+```
+
 ## programmi per scrittura 
 
 https://itsfoss.com/open-source-tools-writers/
